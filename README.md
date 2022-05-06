@@ -15,7 +15,7 @@ No arqurivo Rar disponibilizamos o executável da I.A no ambiente do jogo. Os Co
 Observação: A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada da I.A, para iniciar uma nova simulação basta renomear a pasta.
 
 ## Autores
-Henrique Anacleto de Medeiros - RA: 2219104157
-Matheus Ferreira Aliberti de Castro - RA: 3119102742
-Murillo Boroni Sidlauskas de Almeida - RA: 2219102323
-Rodrigo Correia Rodrigues - RA: 2219108245
+- Henrique Anacleto de Medeiros - RA: 2219104157
+- Matheus Ferreira Aliberti de Castro - RA: 3119102742
+- Murillo Boroni Sidlauskas de Almeida - RA: 2219102323
+- Rodrigo Correia Rodrigues - RA: 2219108245
