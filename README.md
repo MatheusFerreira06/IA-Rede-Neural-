@@ -4,13 +4,16 @@ Projeto de aplicação onde colocamos uma Inteligencia Artificial (I.A) no ambie
 No Github estamos disponibilizando o código base que faz todo o circuito funcionar.
 
 ## Como usar
-No arquivo "Dragon_Fly.rar" disponibilizamos o executável da I.A no ambiente do jogo. Os Controles são:
+No arquivo "Dragon_Fly_Treinando.rar" disponibilizamos o executável onde é escolhido a quantidade de I.A's que estarão aprendendo conforme as gereções de testes. 
+Os Controles são:
 
 - Espaço: Pula
 - Z: Usa paraquedas (apenas depois de 4000 pixels)
 - X: Paralisa/Desparalisa o movimento dos canos
 - Setas: cima/baixo diminuem/aumentam a velocidade do jogo todo.
 - Enter:  Reinicia a partida
+
+No arquivo "Dragon_Fly.rar" está executando a I.A que já está treinada e aprendeu o jogo.
 
 Observação: A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada da I.A.
 
