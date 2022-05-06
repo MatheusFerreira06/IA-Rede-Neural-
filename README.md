@@ -4,7 +4,7 @@ Projeto de aplicação onde colocamos uma Inteligencia Artificial (I.A) no ambie
 No Github estamos disponibilizando o código base que faz todo o circuito funcionar.
 
 ## Como usar
-No arqurivo Rar disponibilizamos o executável da I.A no ambiente do jogo. Os Controles são:
+No arqurivo "Dragon_Fly.rar" disponibilizamos o executável da I.A no ambiente do jogo. Os Controles são:
 
 - Espaço: Pula
 - Z: Usa paraquedas (apenas depois de 4000 pixels)
