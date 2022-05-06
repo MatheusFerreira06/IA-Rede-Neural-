@@ -12,7 +12,7 @@ No arquivo "Dragon_Fly.rar" disponibilizamos o executável da I.A no ambiente do
 - Setas: cima/baixo diminuem/aumentam a velocidade do jogo todo.
 - Enter:  Reinicia a partida
 
-Observação: A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada da I.A, para iniciar uma nova simulação basta renomear a pasta.
+Observação: A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada da I.A.
 
 ## Autores
 - Henrique Anacleto de Medeiros - RA: 2219104157
