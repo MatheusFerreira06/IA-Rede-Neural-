@@ -1,5 +1,6 @@
 ## IA Rede Neural
 Projeto de aplicação onde colocamos uma Inteligencia Artificial (I.A) no ambiente de um jogo, com objetivo de analisar o aprendizado da mesma. Realizado para compor a nota na matéria Projeto em Sistemas Inteligentes no 7º Semestre de Ciência da Computação - Uninove
+
 No Github estamos disponibilizando o código base que faz todo o circuito funcionar.
 
 ## Como usar
