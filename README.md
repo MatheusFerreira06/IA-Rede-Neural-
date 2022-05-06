@@ -5,11 +5,11 @@ No Github estamos disponibilizando o código base que faz todo o circuito funcio
 ## Como usar
 No arqurivo Rar disponibilizamos o executável da I.A no ambiente do jogo. Os Controles são:
 
-- - Espaço: Pula
-- - Z: Usa paraquedas (apenas depois de 4000 pixels)
-- - Enter:  Reinicia a partida
-- - X: Paralisa/Desparalisa o movimento dos canos
-- - Setas: cima/baixo diminuem/aumentam a velocidade do jogo todo.
+- Espaço: Pula
+- Z: Usa paraquedas (apenas depois de 4000 pixels)
+- Enter:  Reinicia a partida
+- X: Paralisa/Desparalisa o movimento dos canos
+- Setas: cima/baixo diminuem/aumentam a velocidade do jogo todo.
 
 Observação: A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada da I.A, para iniciar uma nova simulação basta renomear a pasta.
 
